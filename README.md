@@ -54,10 +54,10 @@ Mechanical Features
   
 Photos
 ===========
-![board](https://github.com/ricksta/openBMS/blob/master/Photo/Board.png?raw=true)
-![board](https://github.com/ricksta/openBMS/blob/master/Photo/Enclosure.jpeg?raw=true)
-![circuit1](https://github.com/ricksta/openBMS/blob/master/Photo/Circuit1.png?raw=true)
-![circuit2](https://github.com/ricksta/openBMS/blob/master/Photo/Circuit2.png?raw=true)
+![board](https://github.com/ricksta/openBMS/blob/master/Photos/Board.png?raw=true)
+![enclosure](https://github.com/ricksta/openBMS/blob/master/Photos/Enclosure.jpeg?raw=true)
+![circuit1](https://github.com/ricksta/openBMS/blob/master/Photos/Circuit1.png?raw=true)
+![circuit2](https://github.com/ricksta/openBMS/blob/master/Photos/Circuit2.png?raw=true)
 
 License
 ===========
