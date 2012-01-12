@@ -1,5 +1,5 @@
-openBMS is a lithium ion battery management system(BMS) originally designed by Ricky Gu of UBC Electric Car Club for the eBeetle project. 
+openBMS is a lithium ion battery management system(BMS) based on the Linear Tech LTC6802-2 integrated IC and Cinch ModICE automotive enclosure. 
 
-The eBeetle was the first electric vehicle to drive coast to coast across Canada in the summer of 2010. This BMS was one of the key component that enabled the eBeetle to drive 6400km in 14 days. 
+This BMS was originally designed by Ricky Gu of UBC Electric Car Club for the eBeetle project in spring 2010. The eBeetle became the first electric vehicle to drive coast to coast across Canada in summer 2010. This BMS was one of the key component that enabled the eBeetle to drive 6400km in 14 days. 
 
 This project is released under Creative Commons Noncommercial Share-Alike license.
