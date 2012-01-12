@@ -1,0 +1,7 @@
+PCB material: FR4, 
+1.6mm thickness, 
+Pb free HASL, 
+solder mask green 
+white silkscreen
+
+*All capacitors are 10%

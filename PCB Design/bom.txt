@@ -1,0 +1,163 @@
+Partlist exported from C:/Users/Ricky/Documents/eagle/XBMS3/bms3_1.sch at 28/09/2010 1:58:56 PM
+
+Part     Value                             Device     Package        Description                       
+A0       2.54mm Header + Tyco 881545 Shunt PINHD-1X3  1X03           PIN HEADER                        
+A1       2.54mm Header + Tyco 881545 Shunt PINHD-1X3  1X03           PIN HEADER                        
+A2       2.54mm Header + Tyco 881545 Shunt PINHD-1X3  1X03           PIN HEADER                        
+A3       2.54mm Header + Tyco 881545 Shunt PINHD-1X3  1X03           PIN HEADER                        
+ACSL6410 ACSL-6410                         ACSL-6410  ACSL-6410-SO16                                   
+BAT1     BAT54S                            BAT54S     SOT-23                                           
+BAT2     BAT54S                            BAT54S     SOT-23                                           
+BAT3     BAT46W                            BAT46W     SOD123         BAT46W Small singla Schottky Diode
+BAT4     BAT46W                            BAT46W     SOD123         BAT46W Small singla Schottky Diode
+"C1       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C2       100nF                             C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C3       33nF                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C4       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C5       470pF                             C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C6       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C7       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C8       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C9       1uF                               C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C10      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C11      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C12      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C13      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C14      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C15      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C16      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C17      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C18      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C19      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C20      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+"C21      100n                              C-EUC0402  C0402          CAPACITOR, European symbol        "
+CELL5                                      PINHD-1X2  1X02           PIN HEADER                        
+CELL6                                      PINHD-1X2  1X02           PIN HEADER                        
+CELL7                                      PINHD-1X2  1X02           PIN HEADER                        
+CELL8                                      PINHD-1X2  1X02           PIN HEADER                        
+CELL9                                      PINHD-1X2  1X02           PIN HEADER                        
+CELL10                                     PINHD-1X2  1X02           PIN HEADER                        
+CELL11                                     PINHD-1X2  1X02           PIN HEADER                        
+CELL12                                     PINHD-1X2  1X02           PIN HEADER                        
+CMHZ     CMHZ5265B                         CMHZ5265B  SOD123                                           
+CSBI     TP0610K                           TP0610K    SOT-23                                           
+"L1       BLM31PG330SN1L                    L-USL3216C L3216C         INDUCTOR, American symbol         "
+LED1     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED2     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED3     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED4     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED5     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED6     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED7     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED8     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED9     LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED10    LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED11    LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LED12    LED-0805                          LED-0805   0805           Green 2V 20mA SMT diode           
+LTC1693  LTC1693-2                         LTC1693-2  S8-LTC1693-2                                     
+MODICE   MODICE_30                         MODICE_30  CINCH_HEADER30 Cinch MODice 30 enclosure header  
+PD1      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD2      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD3      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD4      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD5      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD6      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD7      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD8      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD9      PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD10     PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD11     PDZ7.5B                           PDZ7.5B    SOD323                                           
+PD12     PDZ7.5B                           PDZ7.5B    SOD323                                           
+PE68386  PE68386                           PE68386    PE68386                                          
+"R1       3.57K                             R-US_R0402 R0402          RESISTOR, American symbol         "
+"R2       3.57K                             R-US_R0402 R0402          RESISTOR, American symbol         "
+"R3       3.57K                             R-US_R0402 R0402          RESISTOR, American symbol         "
+"R4       330                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R5       100k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R6       100k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R7       100k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R8       330                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R9       330                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R10      4.99k                             R-US_R0402 R0402          RESISTOR, American symbol         "
+"R11      20k                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R12      10k                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R13      249                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R14      100k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R15      100k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R16      1M                                R-US_R0402 R0402          RESISTOR, American symbol         "
+"R17      1M                                R-US_R0402 R0402          RESISTOR, American symbol         "
+"R20      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R21      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R22      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R23      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R24      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R25      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R26      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R27      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R28      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R29      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R30      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R31      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R32      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R33      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R34      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R35      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R36      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R37      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R38      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R39      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R40      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R41      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R42      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R43      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R44      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R45      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R46      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R47      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R48      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R49      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R50      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R51      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R52      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R53      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R54      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R55      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R56      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R57      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R58      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R59      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R60      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R61      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R62      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R63      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R64      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R65      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R66      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R67      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R68      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R69      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R70      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R71      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R72      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R73      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R74      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+"R75      100                               R-US_R0402 R0402          RESISTOR, American symbol         "
+"R76      3.3k                              R-US_R0402 R0402          RESISTOR, American symbol         "
+"R77      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R78      10                                R-US_R2512 R2512          RESISTOR, American symbol         "
+"R79      180                               R-US_R0805 R0805          RESISTOR, American symbol         "
+SCKI     TP0610K                           TP0610K    SOT-23                                           
+SDI      TP0610K                           TP0610K    SOT-23                                           
+T1       RTR020P02                         RTR020P02  TSMT3                                            
+T2       RTR020P02                         RTR020P02  TSMT3                                            
+T3       RTR020P02                         RTR020P02  TSMT3                                            
+T4       RTR020P02                         RTR020P02  TSMT3                                            
+T5       RTR020P02                         RTR020P02  TSMT3                                            
+T6       RTR020P02                         RTR020P02  TSMT3                                            
+T7       RTR020P02                         RTR020P02  TSMT3                                            
+T8       RTR020P02                         RTR020P02  TSMT3                                            
+T9       RTR020P02                         RTR020P02  TSMT3                                            
+T10      RTR020P02                         RTR020P02  TSMT3                                            
+T11      RTR020P02                         RTR020P02  TSMT3                                            
+T12      RTR020P02                         RTR020P02  TSMT3                                            
+X-BMS    LTC6802-2                         LTC6802-2  SSOP-44                                          

@@ -1,0 +1,35 @@
+Partlist exported from C:/Users/Ricky/Documents/eagle/XBMS3/bms3_1.sch at 28/09/2010 2:15:22 PM
+
+Qty Value                             Device     Parts                                                                                                                 
+8                                     PINHD-1X2  CELL5, CELL6, CELL7, CELL8, CELL9, CELL10, CELL11, CELL12                                                             
+2   1M                                R-US_R0402 R16, R17                                                                                                              
+6   1uF                               C-EUC0402  C1, C4, C6, C7, C8, C9                                                                                                
+4   2.54mm Header + Tyco 881545 Shunt PINHD-1X3  A0, A1, A2, A3                                                                                                        
+12  3.3k                              R-US_R0402 R21, R26, R31, R36, R41, R46, R51, R56, R61, R66, R71, R76                                                            
+3   3.57K                             R-US_R0402 R1, R2, R3                                                                                                            
+1   4.99k                             R-US_R0402 R10                                                                                                                   
+24  10                                R-US_R2512 R22, R23, R27, R28, R32, R33, R37, R38, R42, R43, R47, R48, R52, R53, R57, R58, R62, R63, R67, R68, R72, R73, R77, R78
+1   10k                               R-US_R0402 R12                                                                                                                   
+1   20k                               R-US_R0402 R11                                                                                                                   
+1   33nF                              C-EUC0402  C3                                                                                                                    
+12  100                               R-US_R0402 R20, R25, R30, R35, R40, R45, R50, R55, R60, R65, R70, R75                                                            
+5   100k                              R-US_R0402 R5, R6, R7, R14, R15                                                                                                  
+12  100n                              C-EUC0402  C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21                                                            
+1   100nF                             C-EUC0402  C2                                                                                                                    
+12  180                               R-US_R0805 R24, R29, R34, R39, R44, R49, R54, R59, R64, R69, R74, R79                                                            
+1   249                               R-US_R0402 R13                                                                                                                   
+3   330                               R-US_R0402 R4, R8, R9                                                                                                            
+1   470pF                             C-EUC0402  C5                                                                                                                    
+1   ACSL-6410                         ACSL-6410  ACSL6410                                                                                                              
+2   BAT46W                            BAT46W     BAT3, BAT4                                                                                                            
+2   BAT54S                            BAT54S     BAT1, BAT2                                                                                                            
+1   BLM31PG330SN1L                    L-USL3216C L1                                                                                                                    
+1   CMHZ5265B                         CMHZ5265B  CMHZ                                                                                                                  
+12  LED-0805                          LED-0805   LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12                                             
+1   LTC1693-2                         LTC1693-2  LTC1693                                                                                                               
+1   LTC6802-2                         LTC6802-2  X-BMS                                                                                                                 
+1   MODICE_30                         MODICE_30  MODICE                                                                                                                
+12  PDZ7.5B                           PDZ7.5B    PD1, PD2, PD3, PD4, PD5, PD6, PD7, PD8, PD9, PD10, PD11, PD12                                                         
+1   PE68386                           PE68386    PE68386                                                                                                               
+12  RTR020P02                         RTR020P02  T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12                                                                     
+3   TP0610K                           TP0610K    CSBI, SCKI, SDI                                                                                                       
